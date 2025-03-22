@@ -1,0 +1,90 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Pytest
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pylint
+pylint-report.txt
+
+# Environments
+.env
+*.env
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.token/          # 혹시 .으로 시작한 가상환경 폴더
+token/           # 너가 만든 가상환경 이름
+**/token/        # 어디에 있든 token 폴더 무시
+.venv/
+.conda/
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# VS Code settings history
+.history/
+
+# System logs
+logs/
+*.log
+
+# Hugging Face Cache
+~/.cache/huggingface/
+**/transformers_cache/
+**/datasets_cache/
+**/tokenizers_cache/
