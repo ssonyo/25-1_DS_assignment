@@ -1,0 +1,30 @@
+# Python 가상환경 폴더
+token/
+
+# Python 캐시
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter notebook checkpoint
+.ipynb_checkpoints/
+
+# 환경 설정 파일
+.env
+*.env
+
+# VSCode 설정 (선택)
+.vscode/
+
+# macOS 파일
+.DS_Store
+
+# Hugging Face 캐시 (기본 경로 기준)
+~/.cache/huggingface/
+**/transformers_cache/
+**/datasets_cache/
+**/tokenizers_cache/
+
+# 기타 캐시 디렉토리
+.cache/
+logs/

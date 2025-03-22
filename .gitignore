@@ -60,9 +60,6 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-.token/          # 혹시 .으로 시작한 가상환경 폴더
-token/           # 너가 만든 가상환경 이름
-**/token/        # 어디에 있든 token 폴더 무시
 .venv/
 .conda/
 .idea/
