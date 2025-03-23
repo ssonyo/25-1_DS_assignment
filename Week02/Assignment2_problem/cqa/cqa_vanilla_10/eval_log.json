@@ -1,0 +1,17 @@
+[
+    {
+        "iter": 1,
+        "accuracy": 0.75,
+        "hint_accuracy": "_"
+    },
+    {
+        "iter": 2,
+        "accuracy": 0.72,
+        "hint_accuracy": "_"
+    },
+    {
+        "iter": 3,
+        "accuracy": 0.67,
+        "hint_accuracy": "_"
+    }
+]
